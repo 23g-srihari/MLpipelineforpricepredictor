@@ -6,7 +6,7 @@ Make sure you have Python 3.7+ installed and the required dependencies listed in
 
 Installation
 Clone the repository:
-git clone https://github.com/your-username/real-estate-price-predictor.git
+git clone https://github.com/23g-srihari/MLpipelineforpricepredictor
 cd real-estate-price-predictor
 Create a virtual environment and activate it:
 python -m venv venv
